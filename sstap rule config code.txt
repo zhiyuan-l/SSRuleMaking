@@ -1,0 +1,16 @@
+SSTap rules配置码部分:
+
+0,1,2,3,4,5
+[0,1]: Action Type
+    [1,1]: Direct
+    [0,0]: Proxify
+2: ?
+3: ?
+4: Editable
+    0: True
+    1: False
+5: Proxify DNS Request
+    0: Auto
+    1: Direct
+    2: Proxify
+    
